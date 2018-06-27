@@ -30,3 +30,10 @@ print "Here is a puzzle."
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 
 print "That becomes: ", what, "Can you do it by hand?"
+
+age = add(24, 34)
+clas = multiply(10, 10)
+height = 1032
+
+Emma =subtract(clas, add(age, divide(height, multiply(height, 1000))))
+print "your result is %d"% Emma

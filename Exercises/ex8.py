@@ -1,7 +1,7 @@
 formatter = "%r %r %r %r" 
 
 print formatter % (
-"one", "two", "three", "four")
+'one', "two", "three", "four")
 
 print formatter % (True, False, True, False)
 
